@@ -1,4 +1,4 @@
-<img src="./public/totoro.png" width="360" align="right">
+<img src="./public/totoro.png" width="360" height="395" align="right">
 
 ### hello, i am slime. ⎛>︶<⎞
 
